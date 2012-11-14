@@ -5,6 +5,8 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
+从这[3分钟建立一个Jekyll Blog](http://ztpala.com/2012/01/12/zero-to-hosted-jekyll-blog-in-3-minutes/) 我尝试了[litefy.github.com](http://litefy.github.com/)的hello world
+
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
